@@ -77,4 +77,8 @@ An AI-powered Travel Planner
 
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="700"/>
+</p>
+
 ⭐ Thanks for visiting my profile!
