@@ -15,39 +15,8 @@ Full Stack Java Developer | Java | Spring Boot | React.js
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,postman,vscode,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java, spring, react,js, html, css ,mysql ,git, github, postman, vscode, idea&theme=dark" />
 </p>
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-- Java
-- JavaScript
-- SQL
-- HTML
-- CSS
-
-### Frameworks
-
-- Spring Boot
-- React.js
-- Hibernate
-- JPA
-
-### Database
-
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- Postman
-- VS Code
-- IntelliJ IDEA
 
 ---
 
