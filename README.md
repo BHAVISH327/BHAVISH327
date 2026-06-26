@@ -16,39 +16,31 @@ Full Stack Java Developer | Java | Spring Boot | React.js
 ## 🛠 Tech Stack
 
 
-  <h2 align="center">💻 Tech Stack</h2>
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="60"/><br>Java
-</td>
-
-<td width="25"></td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=spring" width="60"/><br>Spring Boot
-</td>
-
-<td width="25"></td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="60"/><br>React
-</td>
-
-<td width="25"></td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>MySQL
-</td>
-
-<td width="25"></td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git
-</td>
-</tr>
-</table>
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" height="55"/>
+</p>
 
 ---
 
