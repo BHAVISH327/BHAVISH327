@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bhavish Hegde</h1>
 
-<!--
-**BHAVISH327/BHAVISH327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Java Developer | Java | Spring Boot | React.js
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💻 Full Stack Java Developer
+- 🌱 Currently learning Data Structures & Algorithms
+- 🚀 Interested in Backend Development using Spring Boot
+- 🤖 Exploring AI Integration using Google Gemini API
+- 📍 India
+- 📫 Email: your-email@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+- Java
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### Frameworks
+
+- Spring Boot
+- React.js
+- Hibernate
+- JPA
+
+### Database
+
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- Postman
+- VS Code
+- IntelliJ IDEA
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 NeuroCart
+
+A Full Stack E-Commerce Application
+
+- JWT Authentication
+- Shopping Cart
+- Admin Dashboard
+- Order Management
+
+---
+
+### 🌍 Wander AI
+
+An AI-powered Travel Planner
+
+- Google Gemini API
+- Personalized Itinerary
+- Weather Information
+- Hotel Recommendations
+
+---
+
+⭐ Thanks for visiting my profile!
