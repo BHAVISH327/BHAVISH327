@@ -1,77 +1,87 @@
-🌌 Neon Animated Banner
 
-👋 Introduction
 
-⚡ Typing Animation
+<h1 align="center">Hi 👋, I'm Bhavish Hegde</h1>
 
-<h2 align="center">⚡ Tech Arsenal ⚡</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java" width="65"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=spring" width="65"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" width="65"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="65"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="65"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="65"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
-</p>
-
-<br>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git" width="65"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="65"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" width="65"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="65"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=idea" width="65"/>
-</p>
+<h3 align="center">
+Full Stack Java Developer | Spring Boot | React.js | MySQL
+</h3>
 
 ---
 
-## 💻 Technologies
+## 🚀 About Me
 
-<p align="center">
+- 💻 Full Stack Java Developer
+- 🌱 Currently learning Data Structures & Algorithms
+- 🔭 Building scalable Spring Boot applications
+- 🤖 Exploring AI integrations using Google Gemini API
+- 📫 Reach me: your-email@gmail.com
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+## 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+### Languages
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+Java • JavaScript • SQL • HTML • CSS
 
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+### Backend
 
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+Spring Boot • REST APIs • Hibernate • JPA
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+### Frontend
 
-</p>
+React.js • Bootstrap • Tailwind CSS
 
-📊 GitHub Stats
+### Database
 
-🔥 Streak
+MySQL
 
-🏆 Trophies
+### Tools
 
-📈 Contribution Graph
+Git • GitHub • VS Code • IntelliJ IDEA • Postman
 
-📌 Featured Projects
+---
 
-🎮 Gaming Animation
+## 📌 Featured Projects
 
-🌐 Social Links
+### 🛒 NeuroCart
+E-commerce platform using Spring Boot & React.
 
-🐍 Snake Animation
+✔ JWT Authentication
 
-☕ Support Section
+✔ Shopping Cart
+
+✔ Order Management
+
+✔ Admin Dashboard
+
+---
+
+### 🌍 Wander AI
+AI Powered Travel Planner
+
+✔ Gemini API
+
+✔ Personalized Itinerary
+
+✔ Hotel Recommendations
+
+✔ Weather Information
+
+---
+
+## 📈 GitHub Stats
+
+(Add GitHub Stats here)
+
+## 🔥 Streak Stats
+
+(Add GitHub Streak here)
+
+## 🌐 Connect with me
+
+LinkedIn
+
+Email
+
+Portfolio
