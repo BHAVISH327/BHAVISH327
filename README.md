@@ -12,12 +12,11 @@ Full Stack Java Developer | Java | Spring Boot | React.js
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Java Developer
-- 🌱 Currently learning Data Structures & Algorithms
-- 🚀 Interested in Backend Development using Spring Boot
-- 🤖 Exploring AI Integration using Google Gemini API
-- 📍 India
-- 📫 Email: your-email@gmail.com
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,postman,vscode,idea&theme=dark" />
+</p>
 
 ---
 
