@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Bhavish%20Hegde&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Developer&descAlignY=55"/>
-</p>
+
 <h1 align="center">Hi 👋, I'm Bhavish Hegde</h1>
 
 <p align="center">
