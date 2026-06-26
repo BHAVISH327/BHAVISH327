@@ -116,19 +116,6 @@ AI Powered Travel Planner
 
 ---
 
-## 📈 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BHAVISH327&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVISH327&layout=compact&theme=tokyonight"/>
-
-</p>
-
-## 🔥 Streak Stats
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
