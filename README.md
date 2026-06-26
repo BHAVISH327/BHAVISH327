@@ -12,13 +12,22 @@ Full Stack Java Developer | Java | Spring Boot | React.js
 
 ---
 
-## 🚀 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-- 💻 Full Stack Java Developer
-- 🌱 Currently learning Data Structures & Algorithms
-- 🔭 Building scalable Spring Boot applications
-- 🤖 Exploring AI integrations using Google Gemini API
-- 📫 Reach me: your-email@gmail.com
+<p align="center">
+Passionate <b>Full Stack Java Developer</b> with experience in building modern web applications using
+<b>Java</b>, <b>Spring Boot</b>, <b>React.js</b>, and <b>MySQL</b>.
+</p>
+
+<p align="center">
+I enjoy solving real-world problems through clean, scalable code and continuously explore emerging technologies,
+including <b>Artificial Intelligence</b> and cloud-based solutions.
+</p>
+
+<p align="center">
+🚀 Currently sharpening my skills in <b>Data Structures & Algorithms</b><br>
+💡 Always eager to learn, collaborate, and build impactful software.
+
 
 ---
 
