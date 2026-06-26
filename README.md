@@ -74,5 +74,14 @@ An AI-powered Travel Planner
 - Hotel Recommendations
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BHAVISH327&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVISH327&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ⭐ Thanks for visiting my profile!
